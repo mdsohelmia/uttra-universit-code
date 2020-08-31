@@ -63,5 +63,3 @@ $names = [
 var_dump($names[0]);
 
 var_dump($names);
-
-
