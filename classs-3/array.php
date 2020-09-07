@@ -1,32 +1,68 @@
 <?php
+//numeric
+//$users = ['rahim', 'karim'];
 
-//$name = 'name1';
-//$name1 = 'name2';
-//$name2 = 'name3';
-//$name3 = 'name4';
-//$name4 = 'name5';
+//multidimensional
+//$users = ['rahim', 'karim', 'alom',[
+//    'sohelcse@gmail.com',
+//    'abd@gmail.com'
+//]];
 //
-//echo $name;
-//numeric index array;
+//echo  "<pre>";
+//var_dump($users);
+//echo  "</pre>";
 
-$names = ['name1', 'shuvo', 'jon deo', 'hi'];
+$user = [
+    'fist_name' => 'jon',
+    'last_name' => 'doe',
+    'email' => [
+        'a@gmail.com',
+        'a@gmail.com',
+        'a@gmail.com',
+        'a@gmail.com',
+    ],
+];
 
-$roles = ['admin', 'super_admin', 'editor', 'author'];
-
-//$names[2] = 'Haflu';
-//$names[3] = 'Helo';
-//echo $names[0];
-//echo $names[2];
-//echo $names[3];
-
-//for ($i = 0; $i < count($names); $i++) {
-//    echo $names[$i]."<br/>";
+//foreach ($user as $name) {
+//    if (is_array($name)) {
+//        foreach ($name as $email) {
+//            var_dump($email);
+//        }
+//    } else {
+//        echo $name.'<br/>';
+//    }
 //}
-$number = [1, 3, 5, 6];
 
-foreach ($names as $name) {
-    echo $name;
+//for ($i = 0; $i < 3; $i++) {
+//
+//}
+//define('PI_VALUE', 3.1416);
+//
+//echo PI_VALUE;
+//echo PI_VALUE;
+
+// function  function_name () {
+//}
+
+function say_name($name)
+{
+    return ucfirst($name);
 }
-for ($i = 0; $i < 10; $i++) {
-    echo $i;
+
+echo say_name('sohel mia');
+
+//numta_print()
+{
+
 }
+
+//numta_print(799)
+
+$products = [];
+
+$students = [];
+
+
+
+
+
