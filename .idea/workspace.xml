@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcb4b556-7e7c-420d-9be5-fcae9e240734" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/class-4/function.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classs-3/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/classs-3/array.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,8 @@
       <workItem from="1598858262791" duration="1200000" />
       <workItem from="1599384032779" duration="4696000" />
       <workItem from="1599392763217" duration="104000" />
-      <workItem from="1599460701451" duration="4088000" />
+      <workItem from="1599460701451" duration="5872000" />
+      <workItem from="1600060226101" duration="4926000" />
     </task>
     <servers />
   </component>
@@ -88,14 +89,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="303" key="NewPhpFileDialog" timestamp="1599384067844">
+    <state x="517" y="303" key="NewPhpFileDialog" timestamp="1600060294028">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="517" y="303" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1599384067844" />
+    <state x="517" y="303" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1600060294028" />
     <state x="184" y="29" key="SettingsEditor" timestamp="1599461259019">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1599461259019" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1600064403781">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1600064403781" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598852129776">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
