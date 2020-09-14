@@ -76,11 +76,7 @@ function say(callable $greetign, string $name = null)
 
 date_default_timezone_set("Asia/Dhaka");
 
-say(function ($kichu) {
-    dd($kichu);
 
-    return 'Good moringin '.date("F j, Y, h:i p");
-}, 'jon doe');
 
 
 
