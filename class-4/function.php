@@ -1,14 +1,6 @@
 <?php
 
-function dd($vars)
-{
-    echo '<pre>';
-    echo '<div style="background: black; color: #ffffff;font-size: 23px; font-weight: bold;padding: 10px;" >';
-    var_dump($vars);
-    echo '</div>';
-    echo '</pre>';
-    exit();
-}
+
 
 $array = [
     12,
@@ -74,7 +66,7 @@ function say(callable $greetign, string $name = null)
     echo $greetign($name).' '.$name;
 }
 
-date_default_timezone_set("Asia/Dhaka");
+
 
 
 
