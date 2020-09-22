@@ -23,13 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcb4b556-7e7c-420d-9be5-fcae9e240734" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/class-5/form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-5/helper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-5/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-5/s.text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-5/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-6/assets/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-6/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-6/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-6/user.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-4/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/class-4/function.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +76,7 @@
       <workItem from="1600060226101" duration="5481000" />
       <workItem from="1600066824569" duration="44000" />
       <workItem from="1600582724485" duration="7048000" />
+      <workItem from="1600754412378" duration="8508000" />
     </task>
     <servers />
   </component>
@@ -101,18 +100,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="433" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1600584905987" />
-    <state x="517" y="303" key="NewPhpFileDialog" timestamp="1600587681091">
+    <state x="517" y="303" key="NewPhpFileDialog" timestamp="1600758979393">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="517" y="303" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1600587681091" />
+    <state x="517" y="303" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1600758979393" />
     <state x="184" y="29" key="SettingsEditor" timestamp="1599461259019">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1599461259019" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1600591543648">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1600762526346">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1600591543648" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1600762526346" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1600762131744">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1600762131744" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1600587194314">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
