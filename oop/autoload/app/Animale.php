@@ -1,11 +1,18 @@
 <?php
+
 namespace App;
 
-class Animale
+class Animale implements AnimaleInterface
 {
-
     public function eat()
     {
-        echo "I am eating";
+        return "I am eating";
+    }
+
+    public function run()
+    {
+        echo "I am running";
+        //...
     }
 }
+

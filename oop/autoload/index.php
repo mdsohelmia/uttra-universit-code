@@ -1,14 +1,28 @@
 <?php
 
-
+use App\Cat;
 
 require_once __DIR__.'/vendor/autoload.php';
 
-use App\Cat;
-use App\Controller\AnimaleController;
+//$cat = new Cat();
+////
+////
+//$cat->canEat();
+//
+//$cat->run();
+//
+////Cat::sleep();
+$msql = new \App\MysqlConnection();
 
-// var_dump(new Dog, new Cat);
+$oracall = new \App\OracallConnection();
 
-$con = new AnimaleController;
+$db = new \App\DB($msql);
 
-$con->show();
+echo "<br/>";
+
+$db->find('users',3);
+
+
+
+
+

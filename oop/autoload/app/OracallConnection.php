@@ -1,5 +1,11 @@
 <?php
+namespace App;
+use App\DatabaseConnectinonInterface;
 
-class OracallConnection
+class OracallConnection implements DatabaseConnectinonInterface
 {
+    public function connection()
+    {
+        echo "oracoll";
+    }
 }
