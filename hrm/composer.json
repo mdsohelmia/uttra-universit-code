@@ -1,0 +1,15 @@
+{
+    "name": "sohel/hrm",
+    "authors": [
+        {
+            "name": "Sohel Mia",
+            "email": "sohelcse1999@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nehal\\" : "app/"
+        }
+    }
+}
